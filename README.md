@@ -49,7 +49,7 @@ This project includes:
 
 ## Contributing
 
-Please read [CHANGELOG.md](https://github.com/bilalvdemir/CassandraExample/blob/master/CHANGELOG.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CHANGELOG.md](https://github.com/bilalvdemir/cassandra-spring-example/blob/master/CHANGELOG.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
